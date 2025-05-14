@@ -1,0 +1,41 @@
+Tile,Name,Rent,1 house,2 house,3 house,4 house,Price
+1,GO,,,,,,
+2,Petaling Street,0.06,0.12,0.32,0.52,0.72,0.6
+3,Fate,,,,,,
+4,Jonker Street,0.06,0.12,0.32,0.52,0.72,0.6
+5,Tax,0,0,0,0,0,2
+6,KLIA,0.2,0,0,0,0,2
+7,Masjid Jamek,0.1,0.2,0.4,0.6,0.8,1
+8,Fate,,,,,,
+9,Batu Caves,0.1,0.2,0.4,0.6,0.8,1
+10,Sri Maha Mariamman Temple,0.12,0.24,0.42,0.62,0.82,1.2
+11,Jail,,,,,,
+12,National Museum,0.14,0.28,0.48,0.68,0.88,1.4
+13,Tenaga National Berhad,0.15,0.3,0.5,0.7,0.8,1.5
+14,Royal Palace,0.14,0.28,0.48,0.68,0.88,1.4
+15,Merdeka Square,0.14,0.28,0.48,0.68,0.88,1.4
+16,KLIA2,0.2,0,0,0,0,2
+17,A'Famosa Fort,0.17,0.34,0.54,0.74,0.84,1.7
+18,Fate,,,,,,
+19,Kellie Castle,0.18,0.36,0.56,0.76,0.86,1.8
+20,Stadthuys,0.2,0.4,0.6,0.8,1,2
+21,Parking,,,,,,
+22,Fraser's Hill,0.22,0.44,0.64,0.84,1.04,2.2
+23,Fate,,,,,,
+24,Cameron Highlands,0.22,0.44,0.64,0.84,1.04,2.2
+25,Genting Highland,0.24,0.48,0.68,0.88,1.08,2.4
+26,KL Sentral Station ,0.2,0,0,0,0,2
+27,Pahang National Park,0.26,0.52,0.72,0.92,1.12,2.6
+28,Jabatan Bekalan Air,0.15,0.3,0.5,0.7,0.8,1.5
+29,Gunung Hulu National Park,0.26,0.52,0.72,0.92,1.12,2.6
+30,Kinabalu National Park,0.27,0.54,0.74,0.94,1.14,2.7
+31,Prison,,,,,,
+32,Tioman Islands,0.3,0.6,0.8,1,1.2,3
+33,Perhentian Islands,0.3,0.6,0.8,1,1.2,3
+34,Fate,,,,,,
+35,Sepadan Islands,0.32,0.62,0.82,1.02,1.22,3.2
+36,Pudu Sentral Station,0.2,0,0,0,0,2
+37,Fate,,,,,,
+38,KLCC,0.35,0.7,0.9,1.1,1.3,3.5
+39,Tax,0,0,0,0,0,2
+40,Sepang II Circuit,0.4,0.8,1,1.2,1.4,4
